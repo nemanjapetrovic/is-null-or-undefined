@@ -1,7 +1,7 @@
 {
   "name": "@nempet/is-null-or-undefined",
   "description": "Used to check if some of the arguments are null or undefined.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "keywords": [
     "is-null-or-undefined",
