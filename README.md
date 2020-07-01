@@ -1,4 +1,4 @@
-# is-null-or-undefined
+# [@nempet/is-null-or-undefined](https://www.npmjs.com/package/@nempet/is-null-or-undefined)
 
 Is a simple npm package to check if sent arguments are null or undefined.
 
@@ -9,7 +9,7 @@ Features:
 
 # Install
 
-To install this package just run:
+To install [@nempet/is-null-or-undefined](https://www.npmjs.com/package/@nempet/is-null-or-undefined) package just run:
 
 ```npm i @nempet/is-null-or-undefined```
 
