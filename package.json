@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [
+    "is-null-or-undefined",
     "check",
     "null",
     "undefined",
