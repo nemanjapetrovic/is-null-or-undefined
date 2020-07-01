@@ -7,6 +7,12 @@ Features:
 - You can send as many arguments as you want to check in one run
 - If one of the arguments is null or undefined it will return: `true`
 
+# Install
+
+To install this package just run:
+
+```npm i @nempet/is-null-or-undefined```
+
 # Usage examples
 
 
