@@ -49,7 +49,7 @@ const isNullOrUndefined = require('is-null-or-undefined');
 
 # [Contribution](CONTRIBUTING)
 
-Feel free to contribute by forking this repository, making some changes, and submitting pull requests. For any questions or advice place an issue on this repository.
+Feel free to contribute by forking this repository, making changes, and submitting pull requests. For any questions or advice place an issue on this repository.
 
 # License
 
